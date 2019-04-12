@@ -1,5 +1,15 @@
 ## Welcome to GitHub Pages
 
+{::nomarkdown}
+
+  <nav>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+    </ul>
+  </nav>
+
+{:/}
 
 <img src="http://thebuilderswife.com.au/wp-content/uploads/2014/08/Welcome.jpg" alt="Greeting" height="500" width="1200">
 
