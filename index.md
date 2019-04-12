@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<img src="http://thebuilderswife.com.au/wp-content/uploads/2014/08/Welcome.jpg" alt="Greeting" height="42" width="42">
+<img src="http://thebuilderswife.com.au/wp-content/uploads/2014/08/Welcome.jpg" alt="Greeting" height="1000" width="500">
 
 You can use the [editor on GitHub](https://github.com/MSH63ack/msh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
