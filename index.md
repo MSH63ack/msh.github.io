@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 {::nomarkdown}
-
+<link rel="stylesheet" type="text/css" href="/styles.css">
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
@@ -11,7 +11,7 @@
 
 {:/}
 
-<img src="http://thebuilderswife.com.au/wp-content/uploads/2014/08/Welcome.jpg" alt="Greeting" height="500" width="1200">
+<img src="http://thebuilderswife.com.au/wp-content/uploads/2014/08/Welcome.jpg" alt="Greeting" height="450" width="1200">
 
 You can use the [editor on GitHub](https://github.com/MSH63ack/msh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
