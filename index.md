@@ -117,4 +117,4 @@ Programming languages, tools, and methodologies come and go. That’s why it pay
 
 
 
-## Keep calm and code on!
+## Keep calm and code on :)
