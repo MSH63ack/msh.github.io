@@ -106,3 +106,5 @@ Programming languages, tools, and methodologies come and go. That’s why it pay
 
 ![alt text](https://media.boingboing.net/wp-content/uploads/2015/05/lean.jpg)
 
+
+## Keep calm and code on! :computer
