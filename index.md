@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
+![alt text](https://www.decisionneurolab.com/resources/Intro_to_Programming_for_Psychologists/files/programming-journal-overview.jpg)
 
-<link rel="stylesheet" type="text/css" href="https://github.com/MSH63ack/msh.github.io/blob/master/styles.css">
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>  
+# 8 Ways to Become a Better Coder
 
 
 <img src="http://thebuilderswife.com.au/wp-content/uploads/2014/08/Welcome.jpg" alt="Greeting" height="400" width="1200">
