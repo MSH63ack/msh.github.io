@@ -29,6 +29,7 @@ The first step in learning something is recognizing that you don’t know it. Th
 ![alt text](https://blog.tutoronline.ru/media/621834/learning-how-to-learn.jpg)
 
 
+
 ### 2. Stop trying to prove yourself right
 
 To become great—not just good—you have to learn from experience. But be careful, experience can teach us to repeat poor behavior and to create bad habits. We’ve all encountered programmers with eight years of experience … the same year of experience, repeated eight times. To avoid that syndrome, look at everything you do and ask yourself, “How can I make this better?”
@@ -36,6 +37,7 @@ To become great—not just good—you have to learn from experience. But be care
 Novice software developers (and too many experienced ones) look at their code to admire its wonderfulness. They write tests to prove that their code works instead of trying to make it fail. Truly great programmers actively look for where they’re wrong—because they know that eventually users will find the defects they missed.
 
 ![alt text](https://i0.wp.com/positivelypinoy.com/wp-content/uploads/2015/10/October-30-Acknowledge-Your-Mistakes.jpg?resize=665%2C250)
+
 
 
 ### 3. “The code works” isn’t where you stop; it’s where you start
@@ -47,6 +49,7 @@ But to stop once it’s “done” is like taking a snapshot and expecting it to
 Part of that process is defining what “better” means. Is it valuable to make it faster? Easier to document? More reusable? More reliable? The answer varies with each application, but the process doesn’t.
 
 ![alt text](https://cdn11.bigcommerce.com/s-txsc2vxkm2/images/stencil/500x659/products/3295/7538/CH092-2__98037.1501842821.jpg)
+
 
 
 ### 4. Write it three times
@@ -62,6 +65,7 @@ This level of work may not be obvious when you look at the work of the best deve
 If nothing else, “Write it three times” teaches you how many ways there are to approach a problem. And it prevents you from getting stuck in a rut.
 
 ![alt text](https://pbs.twimg.com/media/DizGuAEWsAAV8e4.jpg:large)
+
 
 
 ### 5. Read code. Read lots of code
@@ -81,6 +85,7 @@ Warning: It’s easy to read a lot of code without becoming a great programmer, 
 ![alt text](https://i2.wp.com/www.ecampusnews.com/files/2016/05/ebook.jpg)
 
 
+
 ### 6. Write code, and not just as assignments
 
 Working on personal programming projects has many advantages. For one, it gives you a way to learn tools and technologies that aren’t available at your current job, but which make you more marketable for the next one. Whether you contribute to an open source project or take on pro-bono work for a local community organization, you’ll gain tech skills and self-confidence. (Plus, your personal projects demonstrate to would-be employers that you’re a self-starter who never stops learning.)
@@ -91,6 +96,8 @@ Another advantage of writing code for fun is that it forces you to figure things
 
 ![alt text](http://1.bp.blogspot.com/-e5YxKtEkhr4/UHz6gYFuqgI/AAAAAAAAANI/p2UL_XU_8LY/s1600/tik.gif)
 
+
+
 ### 7. Work one-on-one with other developers any way you can
 
 It helps to listen to other people. That might mean pair programming, or going to a hackathon, or joining a programming user group. When you contribute to an open source project, pay attention to the feedback you get from users and from other developers. What commonalities do you see in their criticism?
@@ -100,6 +107,7 @@ You might be lucky enough to find a personal mentor whom you can trust to guide 
 ![alt text](https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2017/08/solution-selling.jpg)
 
 
+
 ### 8. Learn techniques, not tools
 
 Programming languages, tools, and methodologies come and go. That’s why it pays to get as much experience as you can with as many languages and frameworks as possible. Focus on the programming fundamentals, because the basics never change; pay more attention to architecture than to programming. If you feel certain that there’s only one right way to do something, it’s probably time for a reality check. 
@@ -107,4 +115,6 @@ Programming languages, tools, and methodologies come and go. That’s why it pay
 ![alt text](https://media.boingboing.net/wp-content/uploads/2015/05/lean.jpg)
 
 
-## Keep calm and code on! :computer
+
+## Keep calm and code on!
+:computer :smile
