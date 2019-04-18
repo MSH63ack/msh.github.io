@@ -4,6 +4,7 @@
 # _8 Ways to Become a Better Coder_
 
 
+:computer:
 It’s time to get serious about improving your programming skills. Let’s do it!
 
 That’s an easy career improvement goal to give oneself, but “become a kick-ass programmer” is not a simple goal. For one thing, saying, “I want to get better” assumes that you recognize what “better” looks like. Plus, too many people aim for improvement without any sense of how to get there.
@@ -117,4 +118,3 @@ Programming languages, tools, and methodologies come and go. That’s why it pay
 
 
 ## Keep calm and code on!
-:computer: :books: :smile:
