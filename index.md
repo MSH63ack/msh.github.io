@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<link rel="stylesheet" type="text/css" href="/styles.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/MSH63ack/msh.github.io/blob/master/styles.css">
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
