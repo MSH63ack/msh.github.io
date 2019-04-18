@@ -46,7 +46,7 @@ But to stop once it’s “done” is like taking a snapshot and expecting it to
 
 Part of that process is defining what “better” means. Is it valuable to make it faster? Easier to document? More reusable? More reliable? The answer varies with each application, but the process doesn’t.
 
-![alt text](https://cdn11.bigcommerce.com/s-txsc2vxkm2/images/stencil/500x659/products/3295/7538/CH092-2__98037.1501842821.jpg c=2&imbypass=on)
+![alt text](https://cdn11.bigcommerce.com/s-txsc2vxkm2/images/stencil/500x659/products/3295/7538/CH092-2__98037.1501842821.jpg)
 
 
 ### 4. Write it three times
