@@ -121,3 +121,6 @@ Programming languages, tools, and methodologies come and go. That’s why it pay
 
 P.S. Dear reader, I invite you to become a guest on the event)
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Mjg2MWRpamp0MzVsbW9sbjhpM2VvYjk4YnQgc2gubWFydHVzeWFAbQ&amp;tmsrc=sh.martusya%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
+
+And please fill out the form :)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRBLcEfYCSDdoFwrFKUul-tknaAGDiUmw1LPy92izOn1kg1Q/viewform?embedded=true" width="640" height="3060" frameborder="0" marginheight="0" marginwidth="0">Завантаження...</iframe>
