@@ -119,4 +119,5 @@ Programming languages, tools, and methodologies come and go. That’s why it pay
 
 ## Keep calm and code on :)
 
-P.S. Dear reader, I invite you to become a guest on the [event](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg2MWRpamp0MzVsbW9sbjhpM2VvYjk4YnQgc2gubWFydHVzeWFAbQ&tmsrc=sh.martusya%40gmail.com)
+P.S. Dear reader, I invite you to become a guest on the event)
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Mjg2MWRpamp0MzVsbW9sbjhpM2VvYjk4YnQgc2gubWFydHVzeWFAbQ&amp;tmsrc=sh.martusya%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
